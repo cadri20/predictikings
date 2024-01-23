@@ -4,6 +4,9 @@ MIT
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/platform-browser
 MIT
 
@@ -215,6 +218,9 @@ Apache-2.0
  limitations under the License.
  
 
+
+soccer-table
+ISC
 
 zone.js
 MIT
