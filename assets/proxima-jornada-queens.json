@@ -1,0 +1,29 @@
+{
+  "matchdayNumber": 1,
+  "matches": [
+    {
+      "team1": "Ultimate Móstoles",
+      "team2": "Jijantas FC"
+    },
+    {
+      "team1": "Rayo de Barcelona",
+      "team2": "Las Troncas FC"
+    },
+    {
+      "team1": "Porcinas FC",
+      "team2": "El Barrio"
+    },
+    {
+      "team1": "1K FC",
+      "team2": "Saiyans FC"
+    },
+    {
+      "team1": "PIO FC",
+      "team2": "Aniquiladoras FC"
+    },
+    {
+      "team1": "Kunitas",
+      "team2": "xBuyer Team"
+    }
+  ]
+}
