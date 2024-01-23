@@ -1,0 +1,18 @@
+<div *ngIf="matchday" class="container">
+  <h1>Jornada {{matchday.matchdayNumber}}</h1>
+  <div *ngFor="let match of matchday.matches" class="match">
+    <div>
+      <img height="50" width="50" [src]="getImageUrl(match.team1)"/>
+      <input type="number" name="number" value="0" min="0" max="100" step="1" [(ngModel)]="match.score1" (keydown)="addMatches()"/>
+      <span>-</span>
+      <input type="number" name="number" value="0" min="0" max="100" step="1" [(ngModel)]="match.score2" (keydown)="addMatches()"/>
+      <img height="50" width="50" [src]="getImageUrl(match.team2)"/>
+
+    </div>
+    <app-switch-button style="width:100%;" *ngIf="match.score1 == match.score2" [option1]="match.team1" [option2]="match.team2" [selected]="match.team1" (selectedChange)="match.penaltiesWinner = $event; addMatches()">
+    </app-switch-button>
+  </div>
+
+</div>
+
+

@@ -1,0 +1,34 @@
+<div class="leaderboard-container">
+  <h2>Tabla de Posiciones</h2>
+  <table *ngIf="leaderboard" class="leaderboard-table">
+    <thead>
+    <tr>
+      <th>Posicion</th>
+      <th>Equipos</th>
+      <th>Puntos</th>
+      <th>V</th>
+      <th>VP</th>
+      <th>DP</th>
+      <th>D</th>
+      <th>GF</th>
+      <th>GC</th>
+      <th>DF</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let standing of leaderboard.standings; index as i">
+      <td>{{i + 1}}</td>
+      <td><img height="50" width="50" [src]="getImageUrl(standing.team)">{{standing.team}}</td>
+      <td>{{standing.points}}</td>
+      <td>{{standing.won}}</td>
+      <td>{{standing.penaltyWins}}</td>
+      <td>{{standing.penaltyLosses}}</td>
+      <td>{{standing.lost}}</td>
+      <td>{{standing.goalsFor}}</td>
+      <td>{{standing.goalsAgainst}}</td>
+      <td>{{standing.goalDifference}}</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
