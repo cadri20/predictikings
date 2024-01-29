@@ -41,5 +41,49 @@
         "penaltiesWinner": "Saiyans FC"
       }
     ]
+  },
+  {
+    "matchdayNumber": 2,
+    "matches": [
+      {
+        "team1": "xBuyer Team",
+        "team2": "Ultimate Móstoles",
+        "score1": 5,
+        "score2": 4
+      },
+      {
+        "team1": "Porcinos FC",
+        "team2": "1K FC",
+        "score1": 2,
+        "score2": 2,
+        "penaltiesWinner": "1K FC"
+      },
+      {
+        "team1": "Los Troncos FC",
+        "team2": "Jijantes FC",
+        "score1": 4,
+        "score2": 0
+      },
+      {
+        "team1": "El Barrio",
+        "team2": "Saiyans FC",
+        "score1": 2,
+        "score2": 4
+      },
+      {
+        "team1": "PIO FC",
+        "team2": "Kunisports",
+        "score1": 1,
+        "score2": 1,
+        "penaltiesWinner": "PIO FC"
+      },
+      {
+        "team1": "Rayo de Barcelona",
+        "team2": "Aniquiladores FC",
+        "score1": 3,
+        "score2": 3,
+        "penaltiesWinner": "Aniquiladores FC"
+      }
+    ]
   }
 ]
