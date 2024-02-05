@@ -85,5 +85,46 @@
         "penaltiesWinner": "Aniquiladores FC"
       }
     ]
+  },
+  {
+    "matchdayNumber": 3,
+    "matches": [
+      {
+        "team1": "1K FC",
+        "team2": "Jijantes FC",
+        "score1": 1,
+        "score2": 3
+      },
+      {
+        "team1": "Porcinos FC",
+        "team2": "Aniquiladores FC",
+        "score1": 3,
+        "score2": 6
+      },
+      {
+        "team1": "Ultimate Móstoles",
+        "team2": "El Barrio",
+        "score1": 1,
+        "score2": 2
+      },
+      {
+        "team1": "Rayo de Barcelona",
+        "team2": "xBuyer Team",
+        "score1": 1,
+        "score2": 7
+      },
+      {
+        "team1": "Kunisports",
+        "team2": "Saiyans FC",
+        "score1": 1,
+        "score2": 3
+      },
+      {
+        "team1": "Los Troncos FC",
+        "team2": "PIO FC",
+        "score1": 3,
+        "score2": 0
+      }
+    ]
   }
 ]
