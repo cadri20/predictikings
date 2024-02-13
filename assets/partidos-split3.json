@@ -126,5 +126,47 @@
         "score2": 0
       }
     ]
+  },
+  {
+    "matchdayNumber": 4,
+    "matches": [
+        {
+          "team1": "Ultimate Móstoles",
+          "team2": "Jijantes FC",
+          "score1": 10,
+          "score2": 2
+        },
+        {
+          "team1": "Aniquiladores FC",
+          "team2": "Kunisports",
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "team1": "Porcinos FC",
+          "team2": "PIO FC",
+          "score1": 6,
+          "score2": 3
+        },
+        {
+          "team1": "xBuyer Team",
+          "team2": "El Barrio",
+          "score1": 4,
+          "score2": 3
+        },
+        {
+          "team1": "Rayo de Barcelona",
+          "team2": "Saiyans FC",
+          "score1": 2,
+          "score2": 3
+        },
+        {
+          "team1": "Los Troncos FC",
+          "team2": "1K FC",
+          "score1": 4,
+          "score2": 4,
+          "penaltiesWinner": "Los Troncos FC"
+        }
+      ]
   }
 ]
