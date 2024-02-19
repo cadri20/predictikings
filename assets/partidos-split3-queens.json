@@ -124,5 +124,47 @@
         "score2": 3
       }
     ]
+  },
+  {
+    "matchdayNumber": 4,
+    "matches": [
+      {
+        "team1": "Porcinas FC",
+        "team2": "Ultimate Móstoles",
+        "score1": 4,
+        "score2": 5
+      },
+      {
+        "team1": "Rayo de Barcelona",
+        "team2": "Kunitas",
+        "score1": 4,
+        "score2": 4,
+        "penaltiesWinner": "Rayo de Barcelona"
+      },
+      {
+        "team1": "Saiyans FC",
+        "team2": "Aniquiladoras FC",
+        "score1": 4,
+        "score2": 3
+      },
+      {
+        "team1": "xBuyer Team",
+        "team2": "El Barrio",
+        "score1": 5,
+        "score2": 2
+      },
+      {
+        "team1": "PIO FC",
+        "team2": "Jijantas FC",
+        "score1": 1,
+        "score2": 3
+      },
+      {
+        "team1": "Las Troncas FC",
+        "team2": "1K FC",
+        "score1": 7,
+        "score2": 4
+      }
+    ]
   }
 ]
